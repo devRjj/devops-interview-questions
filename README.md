@@ -1,4 +1,4 @@
-# DevOps Interview Questions(hellow world)
+# DevOps Interview Questions
 
 :information_source: &nbsp;This repository contains questions on various DevOps and SRE related topics
 
